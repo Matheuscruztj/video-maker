@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Matheuscruztj/video-maker/issues"
   },
-  "homepage": "https://github.com/Matheuscruztj/video-maker#readme"
+  "homepage": "https://github.com/Matheuscruztj/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
