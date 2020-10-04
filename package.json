@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Matheuscruztj/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "googleapis": "^60.0.1",
     "ibm-watson": "^5.7.1",
     "readline-sync": "^1.4.10",
     "sbd": "^1.0.18",
