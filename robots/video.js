@@ -8,6 +8,7 @@ const fromRoot = (relPath) => path.resolve(rootPath, relPath);
 const state = require('./state');
 
 async function robot() {
+  console.log(`> [video-robot] Starting...`);
   const content = state.load();
 
   await convertAllImages(content);
